@@ -1,6 +1,6 @@
 # Hello First PR
 
-This is a smal practice repository for learning the GitHub pull request workflow.
+This is a small practice repository for learning the GitHub pull request workflow.
 
 ## What this repo is for
 
